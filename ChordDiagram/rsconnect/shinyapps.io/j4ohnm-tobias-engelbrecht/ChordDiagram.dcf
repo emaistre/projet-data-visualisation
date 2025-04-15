@@ -1,0 +1,12 @@
+name: ChordDiagram
+title: ChordDiagram
+username: j4ohnm-tobias-engelbrecht
+account: j4ohnm-tobias-engelbrecht
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10858810
+bundleId: 8099456
+url: https://j4ohnm-tobias-engelbrecht.shinyapps.io/ChordDiagram/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
